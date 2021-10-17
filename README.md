@@ -1,2 +1,2 @@
 # 6.009-Fundamentals-of-Programming
-Completed class labs
+Contains all the labs I have completed during my class.
